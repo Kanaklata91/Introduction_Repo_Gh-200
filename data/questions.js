@@ -10,7 +10,7 @@ const quizQuestions = [
       'Processes',
       'Clusters'
     ],
-    correctAnswer: 1
+    correctAnswer: 2
   },
   {
     question: 'Which keyword is used to declare a block-scoped variable in JavaScript?',
