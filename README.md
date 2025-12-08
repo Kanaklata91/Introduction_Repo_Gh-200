@@ -1,6 +1,6 @@
-# Introduction
+# GH-200 Introduction Repo
 
-A simple Node.js quiz application for learning and testing knowledge about Node.js and JavaScript.
+A simple Node.js quiz application for learning and testing knowledge about Node.js and JavaScript that is in need of a GitHub Action Workflow
 
 ## Features
 
