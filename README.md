@@ -89,3 +89,5 @@ To add more questions, edit `data/questions.js` and add objects with this format
 
 ISC
 
+## Workflow Status 
+[![CI](https://github.com/Kanaklata91/Introduction_Repo_Gh-200/actions/workflows/npm-publish_workflow_demo.yml/badge.svg)](https://github.com/Kanaklata91/Introduction_Repo_Gh-200/actions/workflows/npm-publish_workflow_demo.yml)
